@@ -1,0 +1,15 @@
+full address:s:<VPS_IP_OR_HOSTNAME>
+username:s:<USERNAME>
+prompt for credentials:i:1
+administrative session:i:0
+screen mode id:i:1
+desktopwidth:i:1920
+desktopheight:i:1080
+session bpp:i:32
+redirectclipboard:i:1
+redirectprinters:i:0
+redirectcomports:i:0
+redirectsmartcards:i:0
+audiomode:i:0
+compression:i:1
+enablecredsspsupport:i:
